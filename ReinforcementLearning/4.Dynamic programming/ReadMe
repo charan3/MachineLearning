@@ -1,0 +1,11 @@
+
+
+4.Dynamic programming
+
+Ex4.1 Policy Evaluation 2 Arrays.ipynb
+Ex4.2 Policy Evaluation In-Place.ipynb	
+Ex4.3 Policy Iteration.ipynb
+Ex4.4 Value Iteration.ipynb
+gridworld_mdp.py
+knowledge check.pdf
+test_dp.py
